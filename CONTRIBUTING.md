@@ -81,14 +81,6 @@ Must be one of the following:
 * **test**: Adding missing tests or correcting existing tests
 * **chore**: Changes to the build process or auxiliary tools and libraries such as documentation generation
 
-## Testing
-
-We use pytest for our testing framework. To run the tests, use the following command:
-
-pytest
-
-
-Please ensure all tests pass before submitting a PR.
 
 ## Documentation
 
